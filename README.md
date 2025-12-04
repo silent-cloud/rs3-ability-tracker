@@ -4,7 +4,8 @@
  
   <p align="center">
     This ability tracker is a fork of TXJ's RS3 Ability Tracker. The original ability tracker had been archived since 2022. Unable to find any useful ability trackers to use for making short videos for my ironman group to follow, I decided to fork and keep this ability tracker updated as much as I can.
-
+  </p>
+  <p>
     Updates will only be available in Windows only, since I do not have access to Mac device to create install files.
   </p>
 </p>
