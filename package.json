@@ -1,6 +1,6 @@
 {
   "name": "rs3-ability-tracker",
-  "version": "1.2.5",
+  "version": "1.0.0",
   "description": "TXJ's Ability Tracker for RuneScape 3",
   "type": "commonjs",
   "main": "src/index.js",
