@@ -630,6 +630,12 @@
     "customIcon": null
   },
   {
+    "name": "Invoke Lord of Bones",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Invoke_Lord_of_Bones.png",
+    "customIcon": null
+  },
+  {
     "name": "Life Transfer",
     "type": "necromancy",
     "icon": "../game-asset-groups/abilities/necromancy/Life_Transfer.png",
@@ -936,9 +942,21 @@
     "customIcon": null
   },
   {
+    "name": "Boots of Tumekens resplendence",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Boots_of_Tumekens_resplendence.png",
+    "customIcon": null
+  },
+  {
     "name": "Elite tectonic mask",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_mask.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite tectonic mask (Aurora)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_mask_(Aurora).png",
     "customIcon": null
   },
   {
@@ -966,6 +984,12 @@
     "customIcon": null
   },
   {
+    "name": "Elite tectonic mask (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_mask_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Elite tectonic mask (Third Age)",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_mask_(Third_Age).png",
@@ -975,6 +999,12 @@
     "name": "Elite tectonic robe bottom",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_bottom.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite tectonic robe bottom (Aurora)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_bottom_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1002,6 +1032,12 @@
     "customIcon": null
   },
   {
+    "name": "Elite tectonic robe bottom (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_bottom_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Elite tectonic robe bottom (Third Age)",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_bottom_(Third_Age).png",
@@ -1011,6 +1047,12 @@
     "name": "Elite tectonic robe top",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_top.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite tectonic robe top (Aurora)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_top_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1038,9 +1080,99 @@
     "customIcon": null
   },
   {
+    "name": "Elite tectonic robe top (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_top_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Elite tectonic robe top (Third Age)",
     "type": "magic",
     "icon": "../game-asset-groups/armor/magic/Elite_tectonic_robe_top_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Gloves of Tumekens resplendence",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Gloves_of_Tumekens_resplendence.png",
+    "customIcon": null
+  },
+  {
+    "name": "Mask of Tumekens resplendence",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Mask_of_Tumekens_resplendence.png",
+    "customIcon": null
+  },
+  {
+    "name": "Masterwork magic boots",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Masterwork_magic_boots.png",
+    "customIcon": null
+  },
+  {
+    "name": "Masterwork magic gloves",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Masterwork_magic_gloves.png",
+    "customIcon": null
+  },
+  {
+    "name": "Masterwork magic hat",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Masterwork_magic_hat.png",
+    "customIcon": null
+  },
+  {
+    "name": "Masterwork magic robe bottom",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Masterwork_magic_robe_bottom.png",
+    "customIcon": null
+  },
+  {
+    "name": "Masterwork magic robe top",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Masterwork_magic_robe_top.png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of Tumekens resplendence",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Robe_bottom_of_Tumekens_resplendence.png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of Tumekens resplendence",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Robe_top_of_Tumekens_resplendence.png",
+    "customIcon": null
+  },
+  {
+    "name": "Starbloom boots",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Starbloom_boots.png",
+    "customIcon": null
+  },
+  {
+    "name": "Starbloom gloves",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Starbloom_gloves.png",
+    "customIcon": null
+  },
+  {
+    "name": "Starbloom hat",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Starbloom_hat.png",
+    "customIcon": null
+  },
+  {
+    "name": "Starbloom robe bottom",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Starbloom_robe_bottom.png",
+    "customIcon": null
+  },
+  {
+    "name": "Starbloom robe top",
+    "type": "magic",
+    "icon": "../game-asset-groups/armor/magic/Starbloom_robe_top.png",
     "customIcon": null
   },
   {
@@ -1053,6 +1185,12 @@
     "name": "Malevolent cuirass",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_cuirass.png",
+    "customIcon": null
+  },
+  {
+    "name": "Malevolent cuirass (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_cuirass_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1080,6 +1218,12 @@
     "customIcon": null
   },
   {
+    "name": "Malevolent cuirass (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_cuirass_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Malevolent cuirass (Third Age)",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_cuirass_(Third_Age).png",
@@ -1089,6 +1233,12 @@
     "name": "Malevolent greaves",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_greaves.png",
+    "customIcon": null
+  },
+  {
+    "name": "Malevolent greaves (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_greaves_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1116,6 +1266,12 @@
     "customIcon": null
   },
   {
+    "name": "Malevolent greaves (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_greaves_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Malevolent greaves (Third Age)",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_greaves_(Third_Age).png",
@@ -1125,6 +1281,12 @@
     "name": "Malevolent helm",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_helm.png",
+    "customIcon": null
+  },
+  {
+    "name": "Malevolent helm (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_helm_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1149,6 +1311,12 @@
     "name": "Malevolent helm (shadow)",
     "type": "melee",
     "icon": "../game-asset-groups/armor/melee/Malevolent_helm_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Malevolent helm (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/armor/melee/Malevolent_helm_(Soul).png",
     "customIcon": null
   },
   {
@@ -1242,9 +1410,375 @@
     "customIcon": null
   },
   {
+    "name": "Crown of the First Necromancer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Crown of the First Necromancer Barrows",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Crown_of_the_First_Necromancer_Barrows.png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathdealer boots (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathdealer_boots_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathdealer gloves (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathdealer_gloves_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathdealer hood (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathdealer_hood_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathdealer robe bottom (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathdealer_robe_bottom_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathdealer robe top (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathdealer_robe_top_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathwarden boots (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathwarden_boots_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathwarden gloves (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathwarden_gloves_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathwarden hood (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathwarden_hood_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathwarden robe bottom (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathwarden_robe_bottom_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Deathwarden robe top (tier 90)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Deathwarden_robe_top_(tier_90).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Foot wraps of the First Necromancer (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Foot_wraps_of_the_First_Necromancer_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Hand wrap of the First Necromancer (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Hand_wrap_of_the_First_Necromancer_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe bottom of the First Necromancer (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_bottom_of_the_First_Necromancer_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Robe top of the First Necromancer (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/armor/necromancy/Robe_top_of_the_First_Necromancer_(Third_Age).png",
+    "customIcon": null
+  },
+  {
+    "name": "Dracolich boots",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Dracolich_boots.png",
+    "customIcon": null
+  },
+  {
+    "name": "Dracolich chaps",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Dracolich_chaps.png",
+    "customIcon": null
+  },
+  {
+    "name": "Dracolich coif",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Dracolich_coif.png",
+    "customIcon": null
+  },
+  {
+    "name": "Dracolich hauberk",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Dracolich_hauberk.png",
+    "customIcon": null
+  },
+  {
+    "name": "Dracolich vambraces",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Dracolich_vambraces.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite Dracolich boots",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_Dracolich_boots.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite Dracolich chaps",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_Dracolich_chaps.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite Dracolich coif",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_Dracolich_coif.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite Dracolich hauberk",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_Dracolich_hauberk.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite Dracolich vambraces",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_Dracolich_vambraces.png",
+    "customIcon": null
+  },
+  {
     "name": "Elite sirenic chaps",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_chaps.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite sirenic chaps (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_chaps_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1272,6 +1806,12 @@
     "customIcon": null
   },
   {
+    "name": "Elite sirenic chaps (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_chaps_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Elite sirenic chaps (Third Age)",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_chaps_(Third_Age).png",
@@ -1281,6 +1821,12 @@
     "name": "Elite sirenic hauberk",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_hauberk.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite sirenic hauberk (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_hauberk_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1308,6 +1854,12 @@
     "customIcon": null
   },
   {
+    "name": "Elite sirenic hauberk (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_hauberk_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Elite sirenic hauberk (Third Age)",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_hauberk_(Third_Age).png",
@@ -1317,6 +1869,12 @@
     "name": "Elite sirenic mask",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_mask.png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite sirenic mask (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_mask_(Aurora).png",
     "customIcon": null
   },
   {
@@ -1341,6 +1899,12 @@
     "name": "Elite sirenic mask (shadow)",
     "type": "range",
     "icon": "../game-asset-groups/armor/range/Elite_sirenic_mask_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Elite sirenic mask (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/armor/range/Elite_sirenic_mask_(Soul).png",
     "customIcon": null
   },
   {
@@ -1431,6 +1995,24 @@
     "name": "Amulet of souls (or)",
     "type": "necklaces",
     "icon": "../game-asset-groups/items/necklaces/Amulet_of_souls_(or).png",
+    "customIcon": null
+  },
+  {
+    "name": "Amulet of zealots",
+    "type": "necklaces",
+    "icon": "../game-asset-groups/items/necklaces/Amulet_of_zealots.png",
+    "customIcon": null
+  },
+  {
+    "name": "Am hej",
+    "type": "necklaces",
+    "icon": "../game-asset-groups/items/necklaces/Am_hej.png",
+    "customIcon": null
+  },
+  {
+    "name": "Am zi",
+    "type": "necklaces",
+    "icon": "../game-asset-groups/items/necklaces/Am_zi.png",
     "customIcon": null
   },
   {
@@ -1551,6 +2133,12 @@
     "name": "Essence of Finality amulet (yellow)",
     "type": "necklaces",
     "icon": "../game-asset-groups/items/necklaces/Essence_of_Finality_amulet_(yellow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Expensive spices",
+    "type": "necklaces",
+    "icon": "../game-asset-groups/items/necklaces/Expensive_spices.png",
     "customIcon": null
   },
   {
@@ -1719,6 +2307,12 @@
     "name": "Scrimshaw of Vampyrism",
     "type": "pocket-slot",
     "icon": "../game-asset-groups/items/pocket-slot/Scrimshaw_of_Vampyrism.png",
+    "customIcon": null
+  },
+  {
+    "name": "Scripture of Amascut",
+    "type": "pocket-slot",
+    "icon": "../game-asset-groups/items/pocket-slot/Scripture_of_Amascut.png",
     "customIcon": null
   },
   {
@@ -2052,6 +2646,18 @@
     "customIcon": null
   },
   {
+    "name": "Divine Rage",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Divine_Rage.png",
+    "customIcon": null
+  },
+  {
+    "name": "Eclipsed Soul",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Eclipsed_Soul.png",
+    "customIcon": null
+  },
+  {
     "name": "Fortitude",
     "type": "prayers",
     "icon": "../game-asset-groups/prayers/Fortitude.png",
@@ -2073,6 +2679,60 @@
     "name": "Protect Item",
     "type": "prayers",
     "icon": "../game-asset-groups/prayers/Protect_Item.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 1",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_1.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 2",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_2.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 3",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_3.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 4",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_4.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 5",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_5.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 6",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_6.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 7",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_7.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 8",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_8.png",
+    "customIcon": null
+  },
+  {
+    "name": "Quick-prayers 9",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Quick-prayers_9.png",
     "customIcon": null
   },
   {
@@ -2235,6 +2895,12 @@
     "name": "Blood Rush",
     "type": "spells",
     "icon": "../game-asset-groups/spells/Blood_Rush.png",
+    "customIcon": null
+  },
+  {
+    "name": "Crumble Undead",
+    "type": "spells",
+    "icon": "../game-asset-groups/spells/Crumble_Undead.png",
     "customIcon": null
   },
   {
@@ -2424,6 +3090,12 @@
     "customIcon": null
   },
   {
+    "name": "Temporal Anomaly",
+    "type": "spells",
+    "icon": "../game-asset-groups/spells/Temporal_Anomaly.png",
+    "customIcon": null
+  },
+  {
     "name": "Vengeance",
     "type": "spells",
     "icon": "../game-asset-groups/spells/Vengeance.png",
@@ -2439,6 +3111,12 @@
     "name": "Vengeance Other",
     "type": "spells",
     "icon": "../game-asset-groups/spells/Vengeance_Other.png",
+    "customIcon": null
+  },
+  {
+    "name": "Vulnerability",
+    "type": "spells",
+    "icon": "../game-asset-groups/spells/Vulnerability.png",
     "customIcon": null
   },
   {
@@ -2484,6 +3162,12 @@
     "customIcon": null
   },
   {
+    "name": "Ibans staff",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Ibans_staff.png",
+    "customIcon": null
+  },
+  {
     "name": "Imperium core",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Imperium_core.png",
@@ -2493,6 +3177,12 @@
     "name": "Imperium core (3a)",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Imperium_core_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Imperium core (Aurora)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Imperium_core_(Aurora).png",
     "customIcon": null
   },
   {
@@ -2520,6 +3210,12 @@
     "customIcon": null
   },
   {
+    "name": "Imperium core (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Imperium_core_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Inquisitor staff",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Inquisitor_staff.png",
@@ -2532,9 +3228,27 @@
     "customIcon": null
   },
   {
+    "name": "Legatuss Emberstaff",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Legatuss_Emberstaff.png",
+    "customIcon": null
+  },
+  {
     "name": "Noxious staff",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Noxious_staff.png",
+    "customIcon": null
+  },
+  {
+    "name": "Noxious staff (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Noxious_staff_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Roar of Awakening",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Roar_of_Awakening.png",
     "customIcon": null
   },
   {
@@ -2544,15 +3258,33 @@
     "customIcon": null
   },
   {
+    "name": "Seismic singularity (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Seismic_singularity_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Seismic wand",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Seismic_wand.png",
     "customIcon": null
   },
   {
+    "name": "Seismic wand (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Seismic_wand_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Staff of Armadyl",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Staff_of_Armadyl.png",
+    "customIcon": null
+  },
+  {
+    "name": "Staff of light",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Staff_of_light.png",
     "customIcon": null
   },
   {
@@ -2586,6 +3318,12 @@
     "customIcon": null
   },
   {
+    "name": "Wand of the praesul (Aurora)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Wand_of_the_praesul_(Aurora).png",
+    "customIcon": null
+  },
+  {
     "name": "Wand of the praesul (barrows)",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Wand_of_the_praesul_(barrows).png",
@@ -2607,6 +3345,18 @@
     "name": "Wand of the praesul (shadow)",
     "type": "magic",
     "icon": "../game-asset-groups/weapons/magic/Wand_of_the_praesul_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Wand of the praesul (Soul)",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Wand_of_the_praesul_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Zamorak staff",
+    "type": "magic",
+    "icon": "../game-asset-groups/weapons/magic/Zamorak_staff.png",
     "customIcon": null
   },
   {
@@ -2700,6 +3450,12 @@
     "customIcon": null
   },
   {
+    "name": "Khopesh of Elidinis (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Khopesh_of_Elidinis_(Aurora).png",
+    "customIcon": null
+  },
+  {
     "name": "Khopesh of elidinis (barrows)",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Khopesh_of_elidinis_(barrows).png",
@@ -2724,6 +3480,12 @@
     "customIcon": null
   },
   {
+    "name": "Khopesh of Elidinis (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Khopesh_of_Elidinis_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Khopesh of tumeken",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Khopesh_of_tumeken.png",
@@ -2733,6 +3495,12 @@
     "name": "Khopesh of tumeken (3a)",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Khopesh_of_tumeken_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Khopesh of Tumeken (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Khopesh_of_Tumeken_(Aurora).png",
     "customIcon": null
   },
   {
@@ -2757,6 +3525,12 @@
     "name": "Khopesh of tumeken (shadow)",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Khopesh_of_tumeken_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Khopesh of Tumeken (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Khopesh_of_Tumeken_(Soul).png",
     "customIcon": null
   },
   {
@@ -2796,6 +3570,12 @@
     "customIcon": null
   },
   {
+    "name": "Noxious scythe (Aurora)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Noxious_scythe_(Aurora).png",
+    "customIcon": null
+  },
+  {
     "name": "Noxious scythe (barrows)",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Noxious_scythe_(barrows).png",
@@ -2817,6 +3597,12 @@
     "name": "Noxious scythe (shadow)",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Noxious_scythe_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Noxious scythe (Soul)",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Noxious_scythe_(Soul).png",
     "customIcon": null
   },
   {
@@ -2880,6 +3666,18 @@
     "customIcon": null
   },
   {
+    "name": "Tumekens Light",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Tumekens_Light.png",
+    "customIcon": null
+  },
+  {
+    "name": "Varanuss Mercy",
+    "type": "melee",
+    "icon": "../game-asset-groups/weapons/melee/Varanuss_Mercy.png",
+    "customIcon": null
+  },
+  {
     "name": "Zaros godsword",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Zaros_godsword.png",
@@ -2892,9 +3690,57 @@
     "customIcon": null
   },
   {
+    "name": "Devourers Guard",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Devourers_Guard.png",
+    "customIcon": null
+  },
+  {
     "name": "Omni guard",
     "type": "necromancy",
     "icon": "../game-asset-groups/weapons/necromancy/Omni_guard.png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard_(Third_Age).png",
     "customIcon": null
   },
   {
@@ -2910,15 +3756,69 @@
     "customIcon": null
   },
   {
+    "name": "Soulbound lantern (Aurora)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Barrows)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Blood)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Ice)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Shadow)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Soul)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern (Third Age)",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern_(Third_Age).png",
+    "customIcon": null
+  },
+  {
     "name": "Ancient repriser",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Ancient_repriser.png",
     "customIcon": null
   },
   {
+    "name": "Ascension crossbow",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Ascension_crossbow.png",
+    "customIcon": null
+  },
+  {
     "name": "Ascension crossbow (3a)",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Ascension_crossbow_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Ascension crossbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Ascension_crossbow_(Aurora).png",
     "customIcon": null
   },
   {
@@ -2946,6 +3846,108 @@
     "customIcon": null
   },
   {
+    "name": "Ascension crossbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Ascension_crossbow_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow.png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (3a)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (barrows)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (blood)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (ice)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (shadow)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Blightbound crossbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Blightbound_crossbow_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the Last Guardian",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_Last_Guardian.png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the Last Guardian (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_Last_Guardian_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the Last Guardian (Barrows)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_Last_Guardian_(Barrows).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the last guardian (blood)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_last_guardian_(blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the last guardian (ice)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_last_guardian_(ice).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the last guardian (shadow)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_last_guardian_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the Last Guardian (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_Last_Guardian_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bow of the Last Guardian (Third Age)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Bow_of_the_Last_Guardian_(Third_Age).png",
+    "customIcon": null
+  },
+  {
     "name": "Chaotic crossbow",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Chaotic_crossbow.png",
@@ -2964,39 +3966,57 @@
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow",
+    "name": "Eldricth crossbow",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow.png",
+    "icon": "../game-asset-groups/weapons/range/Eldricth_crossbow.png",
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow (3a)",
+    "name": "Eldricth crossbow (barrows)",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow_(3a).png",
+    "icon": "../game-asset-groups/weapons/range/Eldricth_crossbow_(barrows).png",
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow (barrows)",
+    "name": "Eldricth crossbow (ice)",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow_(barrows).png",
+    "icon": "../game-asset-groups/weapons/range/Eldricth_crossbow_(ice).png",
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow (blood)",
+    "name": "Eldricth crossbow (shadow)",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow_(blood).png",
+    "icon": "../game-asset-groups/weapons/range/Eldricth_crossbow_(shadow).png",
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow (ice)",
+    "name": "Eldritch crossbow (3a)",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow_(ice).png",
+    "icon": "../game-asset-groups/weapons/range/Eldritch_crossbow_(3a).png",
     "customIcon": null
   },
   {
-    "name": "Eldrich crossbow (shadow)",
+    "name": "Eldritch crossbow (Aurora)",
     "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Eldrich_crossbow_(shadow).png",
+    "icon": "../game-asset-groups/weapons/range/Eldritch_crossbow_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Eldritch crossbow (blood)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Eldritch_crossbow_(blood).png",
+    "customIcon": null
+  },
+  {
+    "name": "Eldritch crossbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Eldritch_crossbow_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Gloomfire bow",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Gloomfire_bow.png",
     "customIcon": null
   },
   {
@@ -3012,54 +4032,6 @@
     "customIcon": null
   },
   {
-    "name": "Mainhand ascension crossbow",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_ascension_crossbow.png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow.png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow (3a)",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow_(3a).png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow (barrows)",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow_(barrows).png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow (blood)",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow_(blood).png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow (ice)",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow_(ice).png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand blightbound crossbow (shadow)",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_blightbound_crossbow_(shadow).png",
-    "customIcon": null
-  },
-  {
-    "name": "Mainhand shadow glaive",
-    "type": "range",
-    "icon": "../game-asset-groups/weapons/range/Mainhand_shadow_glaive.png",
-    "customIcon": null
-  },
-  {
     "name": "Mechanised chinchompa",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Mechanised_chinchompa.png",
@@ -3072,6 +4044,18 @@
     "customIcon": null
   },
   {
+    "name": "Noxious longbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Noxious_longbow_(Aurora).png",
+    "customIcon": null
+  },
+  {
+    "name": "Noxious longbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Noxious_longbow_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Offhand ascension crossbow",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Offhand_ascension_crossbow.png",
@@ -3081,6 +4065,12 @@
     "name": "Offhand Ascension crossbow (3a)",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Offhand_Ascension_crossbow_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Offhand ascension crossbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Offhand_ascension_crossbow_(Aurora).png",
     "customIcon": null
   },
   {
@@ -3108,6 +4098,12 @@
     "customIcon": null
   },
   {
+    "name": "Offhand ascension crossbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Offhand_ascension_crossbow_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Offhand blightbound crossbow",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Offhand_blightbound_crossbow.png",
@@ -3117,6 +4113,12 @@
     "name": "Offhand blightbound crossbow (3a)",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Offhand_blightbound_crossbow_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Offhand blightbound crossbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Offhand_blightbound_crossbow_(Aurora).png",
     "customIcon": null
   },
   {
@@ -3144,6 +4146,12 @@
     "customIcon": null
   },
   {
+    "name": "Offhand blightbound crossbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Offhand_blightbound_crossbow_(Soul).png",
+    "customIcon": null
+  },
+  {
     "name": "Offhand Chaotic crossbow",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Offhand_Chaotic_crossbow.png",
@@ -3159,6 +4167,12 @@
     "name": "Seren godbow (3a)",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Seren_godbow_(3a).png",
+    "customIcon": null
+  },
+  {
+    "name": "Seren godbow (Aurora)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Seren_godbow_(Aurora).png",
     "customIcon": null
   },
   {
@@ -3183,6 +4197,18 @@
     "name": "Seren godbow (shadow)",
     "type": "range",
     "icon": "../game-asset-groups/weapons/range/Seren_godbow_(shadow).png",
+    "customIcon": null
+  },
+  {
+    "name": "Seren godbow (Soul)",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Seren_godbow_(Soul).png",
+    "customIcon": null
+  },
+  {
+    "name": "Shadow glaive",
+    "type": "range",
+    "icon": "../game-asset-groups/weapons/range/Shadow_glaive.png",
     "customIcon": null
   },
   {
