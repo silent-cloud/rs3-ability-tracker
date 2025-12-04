@@ -1,14 +1,15 @@
 {
   "name": "rs3-ability-tracker",
   "version": "1.0.0",
-  "description": "TXJ's Ability Tracker for RuneScape 3",
+  "description": "Ability Tracker for RuneScape 3",
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
     "icon-rebuild": "node ./tools/generate-abilities-json.js",
     "startdev": "electron-forge start -- dev",
     "start": "electron-forge start",
-    "make": "electron-rebuild && electron-forge make"
+    "make": "electron-forge make",
+    "package": "electron-forge package"
   },
   "author": "Silent Cloud",
   "license": "ISC",
@@ -19,6 +20,9 @@
     "@electron-forge/maker-rpm": "^7.10.2",
     "@electron-forge/maker-squirrel": "^7.10.2",
     "@electron-forge/maker-zip": "^7.10.2",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.10.2",
+    "@electron-forge/plugin-fuses": "^7.10.2",
+    "@electron/fuses": "^1.8.0",
     "electron": "^39.2.4",
     "electron-rebuild": "^3.2.9",
     "electron-reloader": "^1.2.3"
@@ -41,6 +45,8 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
+            "author": "Silent Cloud",
+            "description": "Ability Tracker for RuneScape 3",
             "iconUrl": "https://raw.githubusercontent.com/silent-cloud/rs3-ability-tracker/refs/heads/totally-not-master/src/icons/icon.ico",
             "setupIcon": "./src/icons/icon.ico",
             "setupExe": "RS3-Ability-Tracker-Installer.exe",

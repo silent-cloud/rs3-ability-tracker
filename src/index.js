@@ -23,5 +23,8 @@ app
     // Disable app hardware acceleration.
     .disableHardwareAcceleration();
 
+    // Set the App User Model ID for Windows notifications.
+    app.setAppUserModelId('com.squirrel.RS3AbilityTracker.RS3AbilityTracker');
+
 // Do not allow second instances and do not allow the app to be started from 'windows.squirrel'.
 !app.requestSingleInstanceLock() || require('electron-squirrel-startup') ? app.emit('quit') : void 0;
