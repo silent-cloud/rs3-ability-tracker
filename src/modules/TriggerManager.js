@@ -1,5 +1,5 @@
 // Import dependencies.
-const [Manager, { uIOhook }, activeWindow] = ['../base/Manager.js', 'uiohook-napi', 'active-win'].map(require);
+const [Manager, { uIOhook }, { activeWindow }] = ['../base/Manager.js', 'uiohook-napi', 'active-win'].map(require);
 
 // Function to get frontend page paths.
 module.exports = class Trigger extends Manager {

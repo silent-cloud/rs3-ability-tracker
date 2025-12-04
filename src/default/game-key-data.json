@@ -420,6 +420,12 @@
     "customIcon": null
   },
   {
+    "name": "Dive",
+    "type": "melee",
+    "icon": "../game-asset-groups/abilities/melee/Dive.png",
+    "customIcon": null
+  },
+  {
     "name": "Flurry",
     "type": "melee",
     "icon": "../game-asset-groups/abilities/melee/Flurry.png",
@@ -543,6 +549,156 @@
     "name": "Stomp (ability)",
     "type": "melee",
     "icon": "../game-asset-groups/abilities/melee/Stomp_(ability).png",
+    "customIcon": null
+  },
+  {
+    "name": "Bloat",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Bloat.png",
+    "customIcon": null
+  },
+  {
+    "name": "Blood Siphon",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Blood_Siphon.png",
+    "customIcon": null
+  },
+  {
+    "name": "Command Putrid Zombie",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Command_Putrid_Zombie.png",
+    "customIcon": null
+  },
+  {
+    "name": "Command Skeleton Warrior",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Command_Skeleton_Warrior.png",
+    "customIcon": null
+  },
+  {
+    "name": "Command Vengeful Ghost",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Command_Vengeful_Ghost.png",
+    "customIcon": null
+  },
+  {
+    "name": "Conjure Putrid Zombie",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Conjure_Putrid_Zombie.png",
+    "customIcon": null
+  },
+  {
+    "name": "Conjure Skeleton Warrior",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Conjure_Skeleton_Warrior.png",
+    "customIcon": null
+  },
+  {
+    "name": "Conjure Undead Army",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Conjure_Undead_Army.png",
+    "customIcon": null
+  },
+  {
+    "name": "Conjure Vengeful Ghost",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Conjure_Vengeful_Ghost.png",
+    "customIcon": null
+  },
+  {
+    "name": "Darkness",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Darkness.png",
+    "customIcon": null
+  },
+  {
+    "name": "Death Skulls",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Death_Skulls.png",
+    "customIcon": null
+  },
+  {
+    "name": "Finger of Death",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Finger_of_Death.png",
+    "customIcon": null
+  },
+  {
+    "name": "Invoke Death",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Invoke_Death.png",
+    "customIcon": null
+  },
+  {
+    "name": "Life Transfer",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Life_Transfer.png",
+    "customIcon": null
+  },
+  {
+    "name": "Living Death",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Living_Death.png",
+    "customIcon": null
+  },
+  {
+    "name": "Necromancy",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Necromancy.png",
+    "customIcon": null
+  },
+  {
+    "name": "Soul Sap",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Soul_Sap.png",
+    "customIcon": null
+  },
+  {
+    "name": "Soul Strike",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Soul_Strike.png",
+    "customIcon": null
+  },
+  {
+    "name": "Spectral Scythe",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Spectral_Scythe.png",
+    "customIcon": null
+  },
+  {
+    "name": "Spectral Scythe 2",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Spectral_Scythe_2.png",
+    "customIcon": null
+  },
+  {
+    "name": "Spectral Scythe 3",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Spectral_Scythe_3.png",
+    "customIcon": null
+  },
+  {
+    "name": "Split Soul",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Split_Soul.png",
+    "customIcon": null
+  },
+  {
+    "name": "Threads of Fate",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Threads_of_Fate.png",
+    "customIcon": null
+  },
+  {
+    "name": "Touch of Death",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Touch_of_Death.png",
+    "customIcon": null
+  },
+  {
+    "name": "Volley of Souls",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/abilities/necromancy/Volley_of_Souls.png",
     "customIcon": null
   },
   {
@@ -1878,6 +2034,12 @@
     "customIcon": null
   },
   {
+    "name": "Deflect Necromancy",
+    "type": "prayers",
+    "icon": "../game-asset-groups/prayers/Deflect_Necromancy.png",
+    "customIcon": null
+  },
+  {
     "name": "Deflect Summoning",
     "type": "prayers",
     "icon": "../game-asset-groups/prayers/Deflect_Summoning.png",
@@ -2721,6 +2883,30 @@
     "name": "Zaros godsword",
     "type": "melee",
     "icon": "../game-asset-groups/weapons/melee/Zaros_godsword.png",
+    "customIcon": null
+  },
+  {
+    "name": "Death guard",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Death_guard.png",
+    "customIcon": null
+  },
+  {
+    "name": "Omni guard",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Omni_guard.png",
+    "customIcon": null
+  },
+  {
+    "name": "Skull lantern",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Skull_lantern.png",
+    "customIcon": null
+  },
+  {
+    "name": "Soulbound lantern",
+    "type": "necromancy",
+    "icon": "../game-asset-groups/weapons/necromancy/Soulbound_lantern.png",
     "customIcon": null
   },
   {
