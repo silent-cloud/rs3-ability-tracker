@@ -31,11 +31,11 @@ jobs:
               uses: nyaa8/package-version@v1
 
             - name: Install
-              run: yarn --network-timeout 100000 || yarn --network-timeout 100000 || yarn --network-timeout 100000
+              run: npm install --network-timeout 100000 || npm install --network-timeout 100000 || npm install --network-timeout 100000
 
             - name: Make
               if: startsWith(github.ref, 'refs/tags/')
-              run: yarn make --arch=${{ matrix.arch }}
+              run: npm run make --arch=${{ matrix.arch }}
               env:
                   GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
 
